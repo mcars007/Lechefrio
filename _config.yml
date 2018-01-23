@@ -33,13 +33,13 @@ author: "Matthew Carswell"
 title: "「 Matthew Carswell 」"
 description: "Personal space for Matthew Carswell. Tech, dancing, art. The works."
 keywords: "matthew, carswell, dance, art, tech, aesthetic"
-favicon: "/img/favicon.ico"
+favicon: "/img/milk.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/milk.ico"
 
 background-img: "../img/intro-bg.jpg"
 
