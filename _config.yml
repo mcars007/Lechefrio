@@ -30,9 +30,9 @@ force-https: True
 
 lang: "en"
 author: "Matthew Carswell"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+title: "「 Matthew Carswell 」"
+description: "Personal space for Matthew Carswell. Tech, dancing, art. The works."
+keywords: "matthew, carswell, dance, art, tech, aesthetic"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,8 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "[ 私は本当に重要なことを見つけようとしているだけです]"
+  - text: "Maybe we feel empty because we leave pieces of ourselves in everything we used to love"
+  - text: "It all comes tumbling down
 
 me-img: "/img/jetpacktocat.png"
 
