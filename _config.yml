@@ -123,7 +123,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "Lechefrio"
 
 syntax-highlight: True
 
@@ -166,13 +166,13 @@ author_blurb_image: "/img/error-404.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/100000013857340"
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/mcars007"
   - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://blockchain.info/address/1PN9eD6ZE88cmRXNicTsuDygE4qFrL1uvA"
   - title: "rss"
     url: "/feed.xml"
 
