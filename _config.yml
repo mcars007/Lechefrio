@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "[ 私は本当に重要なことを見つけようとしているだけです]"
   - text: "Maybe we feel empty because we leave pieces of ourselves in everything we used to love"
-  - text: "It all comes tumbling down
+  - text: "It all comes tumbling down"
 
 me-img: "/img/jetpacktocat.png"
 
