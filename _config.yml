@@ -41,7 +41,7 @@ favicon: "/img/milk.ico"
 
 black-favicon: "/img/milk.ico"
 
-background-img: "../img/headder-photo.jpeg"
+background-img: "../img/headder-photo.jpg"
 
 ##############################
 # Dynamic Text on the Header #
