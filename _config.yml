@@ -56,10 +56,10 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "[ 私は本当に重要なことを見つけようとしているだけです]"
-  - text: "Maybe we feel empty because we leave pieces of ourselves in everything we used to love"
+  - text: "Za Warudo"
   - text: "It all comes tumbling down"
 
-me-img: "/img/jetpacktocat.png"
+# me-img: "/img/jetpacktocat.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -67,7 +67,7 @@ me-img: "/img/jetpacktocat.png"
 # in the end of the url just before '&type' is your user id.
 # Note: fbid is not the same as user id and user id only contains numbers
 
-# me-img: "https://graph.facebook.com/user_id/picture?type=large&width=500&height=500"
+me-img: "https://graph.facebook.com/100000013857340/picture?type=large&width=500&height=500"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
