@@ -55,9 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "[ 私は本当に重要なことを見つけようとしているだけです]"
-  - text: "Za Warudo"
-  - text: "It all comes tumbling down"
+  #- text: "[ 私は本当に重要なことを見つけようとしているだけです]"
+  #- text: "Za Warudo"
+  - text: "Welcome to my site!"
 
 # me-img: "/img/jetpacktocat.png"
 
