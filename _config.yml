@@ -55,9 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  #- text: "[ 私は本当に重要なことを見つけようとしているだけです]"
-  #- text: "Za Warudo"
-  - text: "Welcome to my site!"
+  - text: "Art, Development, Tech, Aesthetics, The Stuff"
+  - text: "Majoring in Information Technology"
+  - text: "日本語のマイナーリング"
 
 # me-img: "/img/jetpacktocat.png"
 
@@ -133,11 +133,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "January 2018"
+    description: "Launched GitHub Website"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "Augusy 2015"
+    description: "Enrolled into FIU"
 
 # First image of the Timeline
 
