@@ -95,12 +95,12 @@ web-app-mode: True
 
 # Icons for Web App mode
 
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
+icon-36p: "/img/web-app/milk-36.png"
+icon-48p: "/img/web-app/milk-48.png"
+icon-72p: "/img/web-app/milk-72.png"
+icon-96p: "/img/web-app/milk-96.png"
+icon-144p: "/img/web-app/milk-144.png"
+icon-192p: "/img/web-app/milk-192.png"
 
 ########
 # Blog #
