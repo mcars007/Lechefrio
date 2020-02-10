@@ -132,12 +132,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/default.png"
+    - image: "/img/timeline/fiu_panthers_logo.png"
+    date: "August 2015"
+    description: "Enrolled into FIU"
+    - image: "/img/timeline/default.png"
     date: "January 2018"
     description: "Launched GitHub Website"
-  - image: "/img/timeline/fiu_panthers_logo.png"
-    date: "Augusy 2015"
-    description: "Enrolled into FIU"
 
 # First image of the Timeline
 
