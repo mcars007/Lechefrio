@@ -135,6 +135,7 @@ events:
     - image: "/img/timeline/fiu_panthers_logo.png"
     date: "August 2015"
     description: "Enrolled into FIU"
+    
     - image: "/img/timeline/default.png"
     date: "January 2018"
     description: "Launched GitHub Website"
